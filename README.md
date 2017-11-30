@@ -10,6 +10,10 @@
 
 And, some works done by the former students can be found in this Repo, just for your reference. :smiley: 
 
+#### Keeping in mind:
+- There are only two weeks for the project
+- Don't be too ambitious
+
 #### Other materials:
 
 For the guys who are interesting in **crypograph/error correction** in communication: 
