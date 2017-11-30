@@ -11,5 +11,7 @@
 And, here are some works done by the former students, just for your reference. 
 
 Other materials:
-a demo of Tetris game written in Python:
+
+a demo of Tetris game written in Python:[Tetris python](https://www.youtube.com/watch?v=P76rnjmdIdU)
+[wxpython Teteris](http://zetcode.com/wxpython/thetetrisgame/)
 
