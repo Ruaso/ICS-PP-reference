@@ -8,7 +8,7 @@
 - Making up a demo for your project
 - The possible improvements
 
-And, here are some works done by the former students, just for your reference. 
+And, some works done by the former students can be found in this Repo, just for your reference. :smiley: 
 
 #### Other materials:
 
