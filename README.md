@@ -22,6 +22,6 @@ For those who are interesting in **game developing**:
 - a demo of Tetris game written in Python: [Tetris python](https://www.youtube.com/watch?v=P76rnjmdIdU)
 
 - reference for GUI: 
-wxpython [wxpython Teteris](http://zetcode.com/wxpython/thetetrisgame/), 
-tkinter [tkinter snake](https://codereview.stackexchange.com/questions/94290/classic-snake-game-using-python-tkinter-and-threading)
+  - wxpython [wxpython Teteris](http://zetcode.com/wxpython/thetetrisgame/), 
+  - tkinter [tkinter snake](https://codereview.stackexchange.com/questions/94290/classic-snake-game-using-python-tkinter-and-threading)
 
