@@ -8,9 +8,9 @@ There are a few things you need to consider in the final presentation project:
 - is there any possible improvement?
 
 
-- an introduction of your idea
-- a discussion about your code designing
-- a demo of your product
-- possible imporvements
+"- an introduction of your idea
+"- a discussion about your code designing
+"- a demo of your product
+"- possible imporvements
 
 And, here are some works done by the former students, just for your reference. 
