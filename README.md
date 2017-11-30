@@ -8,7 +8,7 @@ There are a few things you need to consider in the final presentation project:
 - is there any possible improvement?
 
 
-"- an introduction of your idea
+'- an introduction of your idea
 "- a discussion about your code designing
 "- a demo of your product
 "- possible imporvements
