@@ -12,7 +12,7 @@ And, some works done by the former students can be found in this Repo, just for 
 
 #### Keeping in mind:
 - There are only two weeks for the project. So, don't be too ambitious! :smiling_imp:
-- You actually will follow the 90-90 rule!:joy: So, please leave the hardest task for the last.
+- You actually have to follow the 90-90 rule!:joy: So, finish the simple tasks first, and leave the hardest for the last.
 
 #### Other materials:
 
