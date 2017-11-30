@@ -11,8 +11,8 @@
 And, some works done by the former students can be found in this Repo, just for your reference. :smiley: 
 
 #### Keeping in mind:
-- There are only two weeks for the project, so, Don't be too ambitious! :smiling_imp:
-- You actually will follow the 90-90 rule!:joy: So, please make a reasonable schedual.
+- There are only two weeks for the project. So, don't be too ambitious! :smiling_imp:
+- You actually will follow the 90-90 rule!:joy: So, please leave the hardest task for the last.
 
 #### Other materials:
 
