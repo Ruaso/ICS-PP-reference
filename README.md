@@ -1,4 +1,4 @@
-# Reference for the Presentation Project
+# References for the Presentation Project
 
 #### There are a few things you need to consider in the final presentation project:
 
