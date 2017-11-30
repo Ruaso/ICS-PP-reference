@@ -2,11 +2,11 @@
 
 #### There are a few things you need to consider in the final presentation project:
 
-- Choosing a topic for your team
-- What is the goal of your project
-- What is the framework for your code 
-- Making up a demo for your project
-- The possible improvements
+1. Choosing a topic for your team
+2. What is the goal of your project
+3. What is the framework for your code 
+4. Making up a demo for your project
+5. The possible improvements
 
 And, some works done by the former students can be found in this Repo, just for your reference. :smiley: 
 
