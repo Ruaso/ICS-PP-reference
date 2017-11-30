@@ -9,3 +9,7 @@
 - The possible improvements
 
 And, here are some works done by the former students, just for your reference. 
+
+Other materials:
+a demo of Tetris game written in Python:
+
