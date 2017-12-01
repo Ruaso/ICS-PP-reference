@@ -4,7 +4,7 @@
 
 1. Choosing a topic for your team
 2. What is the goal of your project
-3. What is the framework for your code 
+3. What is the framework of your code 
 4. Making up a demo for your project
 5. The possible improvements
 
